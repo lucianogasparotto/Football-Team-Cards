@@ -219,6 +219,10 @@ footer {
         padding-top: 20px;
     }
 
+    a:active {
+        color: var(--white)
+    }
+        
     a:visited {
         color: var(--eggshell);
     }
